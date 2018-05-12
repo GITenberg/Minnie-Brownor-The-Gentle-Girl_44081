@@ -1,0 +1,34 @@
+_repo: Minnie-Brownor-The-Gentle-Girl_44081
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44081-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: Wise, Daniel
+    aliases:
+    - Wise, D. (Daniel)
+    - Lancewood, Lawrence
+    - Forrester, Francis
+    birthdate: 1813
+    deathdate: 1898
+    gutenberg_agent_id: '28326'
+    url: http://www.gutenberg.org/2009/agents/28326
+    wikipedia: http://en.wikipedia.org/wiki/Daniel_Wise_%28author%29
+description: ''
+gutenberg_issued: '2013-10-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44081'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Girls -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Forgiveness -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcc 'PZ'
+title: Minnie Brown; or, The Gentle Girl
+url: http://www.gutenberg.org/ebooks/44081
