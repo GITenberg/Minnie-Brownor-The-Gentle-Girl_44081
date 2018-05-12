@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/28326
     wikipedia: http://en.wikipedia.org/wiki/Daniel_Wise_%28author%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44081#Minnie-Brownor-The-Gentle-Girl
 gutenberg_issued: '2013-10-31'
 gutenberg_type: Text
 identifiers:
